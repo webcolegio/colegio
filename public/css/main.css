@@ -1,0 +1,29 @@
+.texto{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.verde{
+    background-color: rgb(140, 196, 77);
+    border-radius: 4px;
+}
+
+header{
+    background-color: #f8f8f8;
+}
+
+.navbar-custom{
+  background-color: #464646;
+  border-color: #C0C5BB;
+}
+
+.white{
+    color: #ffffff;
+}
+.enlace{
+    text-decoration: none;
+    color: black;
+}
+
+footer{
+  background-image: linear-gradient(to bottom, #2f2f2f, #464646);
+}

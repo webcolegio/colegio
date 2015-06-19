@@ -1,0 +1,1 @@
+<img src="/Colegios/site_media/images/banner.jpg"  class="img-rounded img-responsive">
